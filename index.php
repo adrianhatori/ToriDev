@@ -9,6 +9,9 @@
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500&family=Rubik&family=Syne+Mono&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -44,13 +47,13 @@
                             <p id="adrian-course">Análise e desenvolvimento de sistemas</p>
                         </div>
                         <div class="col-12 d-flex flex-row justify-content-around my-3">
-                            <img align="center" alt="Hatori-HTML5" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-                            <img align="center" alt="Hatori-CSS3" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-                            <img align="center" alt="Hatori-BS5" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-                            <img align="center" alt="Hatori-JS" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-                            <img align="center" alt="Hatori-PHP" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-                            <img align="center" alt="Hatori-MySQL" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-                            <img align="center" alt="Hatori-Git" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+                            <img align="center" alt="Hatori-HTML5" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+                            <img align="center" alt="Hatori-CSS3" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+                            <img align="center" alt="Hatori-BS5" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+                            <img align="center" alt="Hatori-JS" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+                            <img align="center" alt="Hatori-PHP" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+                            <img align="center" alt="Hatori-MySQL" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+                            <img align="center" alt="Hatori-Git" class="col-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
                         </div>
 
                     </div>
